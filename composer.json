@@ -1,0 +1,17 @@
+{
+  "name": "atdrupal/efq-wrapper",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andy Truong",
+      "email": "thehongtt@gmail.com",
+      "homepage": "http://www.v3k.net",
+      "role": "Author"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "atdrupal\\efq_wrapper\\": "./"
+    }
+  }
+}
